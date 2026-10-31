@@ -8,16 +8,16 @@
 
 课程共 6 次，前 5 次动手做，第 6 次讨论。每次课约 2 小时，包括讲义和现场演示；课后作业自学完成，每课配一份图文操作说明和一个作业包（starter pack）。
 
-## 课程安排
+## 课程安排与讲义资料
 
-| 课次 | 主题 | 现场演示 | 课后作业 | 材料 |
-| --- | --- | --- | --- | --- |
-| 1 | 从大语言模型到智能体 | 写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 | [lesson01](lesson01/) |
-| 2 | 从一个模糊的想法到一张可用在论文中的图表 | 小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） | [lesson02](lesson02/) |
-| 3 | 微观调查数据：审查、清理、合并 | 用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook | 制作中 |
-| 4 | 计量识别与论文复现，写出第一个 Skill | CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md | 制作中 |
-| 5 | 理论建模、写作与可审计性 | 用 pAI-Econ 构建理论模型；clean-room 审稿 | 加固后的复制包（capstone） | 制作中 |
-| 6 | 研讨：AI 与经济学知识生产 | HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 | 制作中 |
+| 课次 | 主题 | 现场演示 | 课后作业 | 讲义 | 作业说明 | 作业包 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | 从大语言模型到智能体 | 写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 | [PDF](lesson01/第1课_从大语言模型到智能体.pdf) | [PDF](lesson01/第1课课后作业使用说明.pdf) | [zip](lesson01/lab1_starter.zip) |
+| 2 | 从一个模糊的想法到一张可用在论文中的图表 | 小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） | [PDF](lesson02/第2课_从模糊想法到论文图表.pdf) | [PDF](lesson02/第2课课后作业使用说明.pdf) | [zip](lesson02/lab2_starter.zip) |
+| 3 | 微观调查数据：审查、清理、合并 | 用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook | coming soon | coming soon | coming soon |
+| 4 | 计量识别与论文复现，写出第一个 Skill | CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md | coming soon | coming soon | coming soon |
+| 5 | 理论建模、写作与可审计性 | 用 pAI-Econ 构建理论模型；clean-room 审稿 | 加固后的复制包（capstone） | coming soon | coming soon | coming soon |
+| 6 | 研讨：AI 与经济学知识生产 | HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 | coming soon | coming soon | coming soon |
 
 ## 每一课的材料
 
@@ -25,16 +25,15 @@
 
 | 文件 | 用途 |
 | --- | --- |
-| [第1课_从大语言模型到智能体.pdf](lesson01/第1课_从大语言模型到智能体.pdf) | 课件（PDF） |
-| `第1课_从大语言模型到智能体.pptx` | 课件（PowerPoint，每页带讲者备注） |
-| [第1课课后作业使用说明.pdf](lesson01/第1课课后作业使用说明.pdf) | 课后作业的图文操作说明，第一次用终端的同学先看这份 |
+| `第1课_从大语言模型到智能体.pdf` | 讲义 |
+| `第1课课后作业使用说明.pdf` | 课后作业的图文操作说明，第一次用终端的同学先看这份 |
 | `lab1_starter.zip` | 作业包，下载后解压使用 |
-| [lab1_starter/](lesson01/lab1_starter/) | 作业包内容，可以在网页上直接浏览 |
+| `lab1_starter/` | 作业包内容，可以在网页上直接浏览 |
 
 ## 怎样开始
 
-1. 按[第 1 课作业说明](lesson01/第1课课后作业使用说明.pdf)装好环境：Claude Code（或 Codex）、Python 或 Stata、Git。
-2. 每一课先看课件，再按作业说明完成作业，最后对照验收清单自查。
+1. 按第 1 课的作业说明（见上表）装好环境：Claude Code（或 Codex）、Python 或 Stata、Git。
+2. 每一课先看讲义，再按作业说明完成作业，最后对照验收清单自查。
 3. **现在就申请数据。** 第 3、4 课要用 CHNS 或 CHARLS，请按各数据官网的流程自行申请下载，可能需要几天到几周。
 
 ## 先修要求

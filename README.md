@@ -122,7 +122,7 @@ network_access = true
 
 ## 致谢与参考
 
-本课程主要参考了以下材料：
+本课程参考了以下材料：
 
 - Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow

@@ -12,7 +12,7 @@
 
 | 课次 | 主题 | 现场演示 | 课后作业 | 讲义 | 作业说明 | 作业包 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 从大语言模型到智能体 | 写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 | [PDF](lesson01/第1课_从大语言模型到智能体.pdf) | [PDF](lesson01/第1课课后作业使用说明.pdf) | [zip](lesson01/lab1_starter.zip) |
+| 1 | 从大语言模型到智能体 | 写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 | [PDF](lesson01/第1课_朱晨的AI智能体课_从大语言模型到智能体.pdf) | [PDF](lesson01/第1课课后作业使用说明.pdf) | [zip](lesson01/lab1_starter.zip) |
 | 2 | 从一个模糊的想法到一张可用在论文中的图表 | 小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） | [PDF](lesson02/第2课_从模糊想法到论文图表.pdf) | [PDF](lesson02/第2课课后作业使用说明.pdf) | [zip](lesson02/lab2_starter.zip) |
 | 3 | 微观调查数据：审查、清理、合并 | 用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook | coming soon | coming soon | coming soon |
 | 4 | 计量识别与论文复现，写出第一个 Skill | CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md | coming soon | coming soon | coming soon |

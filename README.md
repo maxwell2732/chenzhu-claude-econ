@@ -1,36 +1,80 @@
-<p align="right"><img src="assets/gzh_logo.jpg" width="72" alt="公众号：遗传社科研究"></p>
+<p align="center"><img src="assets/course-cover.svg" width="100%" alt="朱晨的 AI 智能体课 · 从研究直觉，到可复现的学术成果"></p>
 
-# 朱晨的 AI 智能体课：Claude Code 经济学研究实战
+<h1 align="center">朱晨的 AI 智能体课</h1>
+<p align="center"><strong>Claude Code 经济学研究实战</strong></p>
 
-朱晨　中国农业大学经济管理学院　·　公众号：遗传社科研究
+<p align="center">朱晨 · 中国农业大学经济管理学院<br>公众号「遗传社科研究」</p>
+
+<p align="center"><a href="#curriculum">课程路径</a> · <a href="#materials">讲义与作业</a> · <a href="#start">开始学习</a> · <a href="#workflows">我的研究工具</a> · <a href="#connect">与我交流</a></p>
+
+---
+
+> **让 AI 承担执行，让研究者掌握判断。**
+>
+> 从一个值得追问的经济学问题出发，把数据、代码、模型与写作组织成可追溯、可核验、可复现的研究过程。
 
 这是一门写给经济学研究者的 AI 智能体实操课，以 Claude Code 为主要工具，也可以改用 Codex。课程从安装讲起，逐步做到一条可复现的实证流程：数据采集与清理、计量分析、论文复现、理论建模和写作。每一步都要留下证据：表和图由脚本生成，数据处理有记录，关键数字经过独立核对。
 
-课程共 6 次，前 5 次动手做，第 6 次讨论。每次课约 2 小时，包括讲义和现场演示；课后作业自学完成，每课配一份图文操作说明和一个作业包（starter pack）。
+| 课程形式 | 学习节奏 | 面向人群 |
+| :--- | :--- | :--- |
+| **6 次课 · 每次约 2 小时** | **5 次实操 + 1 次研讨** | **博士生 · 高年级硕士生 · 青年教师** |
+| 讲义与现场演示 | 课后独立完成作业，配图文说明与作业包 | 有基本计量基础，掌握一种分析工具 |
 
-## 课程安排与讲义资料
+## 我希望你带走的研究能力
 
-| 课次 | 主题 | 现场演示 | 课后作业 | 讲义 | 作业说明 | 作业包 |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | 从大语言模型到智能体 | 写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 | [PDF](lesson01/第1课_朱晨的AI智能体课_从大语言模型到智能体.pdf) | [PDF](lesson01/第1课课后作业使用说明.pdf) | [zip](lesson01/lab1_starter.zip) |
-| 2 | 从一个模糊的想法到一张可用在论文中的图表 | 小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） | [PDF](lesson02/第2课_朱晨的AI智能体课_从一个模糊的想法到一张可用在论文中的图表.pdf) | [PDF](lesson02/第2课课后作业使用说明.pdf) | [zip](lesson02/lab2_starter.zip) |
-| 3 | 微观调查数据：审查、清理、合并 | 用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook | coming soon | coming soon | coming soon |
-| 4 | 计量识别与论文复现，写出第一个 Skill | CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md | coming soon | coming soon | coming soon |
-| 5 | 理论建模、写作与可审计性 | 用 pAI-Econ 构建理论模型；clean-room 审稿 | 加固后的复制包（capstone） | coming soon | coming soon | coming soon |
-| 6 | 研讨：AI 与经济学知识生产 | HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 | coming soon | coming soon | coming soon |
+**把研究问题转化为可执行的任务。** 为智能体设定目标、约束与验收标准，从模糊的想法推进到可以检查的结果。
 
-## 每一课的材料
+**把一次分析沉淀为可复用的工作流。** 用项目规则、脚本和 Skill 连接数据整理、计量分析与论文复现，让下一次研究有据可循。
+
+**为每一项结论保留证据。** 表和图由脚本生成，数据处理有记录，关键数字经过独立核对；研究者始终负责识别假设、经济学解释与最终判断。
+
+<a id="curriculum"></a>
+
+## 六次课，一条完整的研究路径
+
+**建立协作规则 → 获取研究证据 → 整理微观数据 → 识别与复现 → 建模与写作 → 反思知识生产**
+
+| 课次 | 研究主题与现场演示 | 你将完成的成果 |
+| :---: | :--- | :--- |
+| **01** | **从大语言模型到智能体**<br>写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 |
+| **02** | **从一个模糊的想法到一张可用在论文中的图表**<br>小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） |
+| **03** | **微观调查数据：审查、清理、合并**<br>用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook |
+| **04** | **计量识别与论文复现，写出第一个 Skill**<br>CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md |
+| **05** | **理论建模、写作与可审计性**<br>用 pAI-Econ 构建理论模型；clean-room 审稿 | 加固后的复制包（capstone） |
+| **06** | **研讨：AI 与经济学知识生产**<br>HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 |
+
+<a id="materials"></a>
+
+## 讲义与作业
+
+**目前已发布第 1–3 课资料。** 第 4–6 课资料待更新。
+
+| 课次 | 课堂讲义 | 图文作业说明 | 作业包 | 在线浏览 |
+| :---: | :---: | :---: | :---: | :---: |
+| **01** | [PDF](lesson01/第1课_朱晨的AI智能体课_从大语言模型到智能体.pdf) | [PDF](lesson01/第1课课后作业使用说明.pdf) | [zip](lesson01/lab1_starter.zip) | [打开目录](lesson01/lab1_starter/) |
+| **02** | [PDF](lesson02/第2课_朱晨的AI智能体课_从一个模糊的想法到一张可用在论文中的图表.pdf) | [PDF](lesson02/第2课课后作业使用说明.pdf) | [zip](lesson02/lab2_starter.zip) | [打开目录](lesson02/lab2_starter/) |
+| **03** | [PDF](lesson03/第3课_朱晨的AI智能体课_微观调查数据的审查清理合并.pdf) | [PDF](lesson03/第3课课后作业使用说明.pdf) | [zip](lesson03/lab3_starter.zip) | [打开目录](lesson03/lab3_starter/) |
+| **04–06** | 待更新 | 待更新 | 待更新 | — |
+
+<details>
+<summary><strong>每课资料怎么用？查看文件说明</strong></summary>
+
+每课资料按「**讲义 → 图文操作说明 → 作业包 → 验收清单**」使用。
 
 以第 1 课为例，`lesson01/` 里有：
 
 | 文件 | 用途 |
 | --- | --- |
-| `第1课_从大语言模型到智能体.pdf` | 讲义 |
+| `第1课_朱晨的AI智能体课_从大语言模型到智能体.pdf` | 讲义 |
 | `第1课课后作业使用说明.pdf` | 课后作业的图文操作说明，第一次用终端的同学先看这份 |
 | `lab1_starter.zip` | 作业包，下载后解压使用 |
 | `lab1_starter/` | 作业包内容，可以在网页上直接浏览 |
 
-## 怎样开始
+</details>
+
+<a id="start"></a>
+
+## 开始学习
 
 1. 按第 1 课的作业说明（见上表）装好环境：Claude Code（或 Codex）、Python 或 Stata、Git。
 2. 每一课先看讲义，再按作业说明完成作业，最后对照验收清单自查。
@@ -42,7 +86,8 @@
 - 不需要用过 Claude Code 或其他智能体工具。
 - 面向博士生、高年级硕士生和青年教师。本科生建议先用传统方式打好专业基础。
 
-## 用 Codex 的同学
+<details>
+<summary><strong>使用 Codex 的同学：材料适配与联网设置</strong></summary>
 
 课程材料按 Claude Code 组织（`CLAUDE.md`、`.claude/skills/`）。用 Codex 的同学可以让它读取这些文件，自动生成对应的 `AGENTS.md`，提示见各课作业包里的 `codex_adapt_prompt.md`。
 
@@ -53,15 +98,19 @@ Codex 默认的沙箱不允许终端命令联网，下载数据的脚本会报�
 network_access = true
 ```
 
-## 数据说明
+</details>
+
+## 数据与研究规范
 
 - 课程不分发任何数据。CHNS、CHARLS 等授权数据请自行申请，不得分享，不得上传到公开仓库。
 - 第 1、2 课的基础作业只用世界银行等机构的公开数据。
 - 社交媒体数据只用于个人学习和研究。采集时遵守平台用户协议，控制频率，个人信息去标识化，原始数据不公开。
 
-## 相关仓库
+<a id="workflows"></a>
 
-课程中会用到我开发的几个工作流：
+## 从我的研究工作流，到你的研究工作台
+
+课程中会用到我开发的以下项目。结合每一课的任务，理解它们如何组织研究过程，再逐步改造成适合自己课题的工具。
 
 | 仓库 | 用途 | 课次 |
 | --- | --- | --- |
@@ -79,6 +128,10 @@ network_access = true
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
 
 
-## 联系
+<a id="connect"></a>
 
-问题和建议欢迎在本仓库提 Issue，也可以关注公众号“遗传社科研究”。
+---
+
+<p align="center"><img src="assets/gzh_logo.jpg" width="112" alt="遗传社科研究公众号标识"></p>
+<p align="center"><strong>朱晨 · 遗传社科研究</strong><br>经济学研究 × AI 智能体 × 可复现工作流</p>
+<p align="center">欢迎关注公众号「遗传社科研究」，交流研究与实践。<br>课程问题与建议，请在 <a href="https://github.com/maxwell2732/chenzhu-claude-econ/issues">Issues</a> 留言；更多项目见 <a href="https://github.com/maxwell2732">我的 GitHub</a>。</p>

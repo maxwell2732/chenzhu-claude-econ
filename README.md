@@ -1,4 +1,35 @@
-<p align="center"><img src="assets/course-cover.svg" width="100%" alt="朱晨的 AI 智能体课 · 从研究直觉，到可复现的学术成果"></p>
+<p align="center">
+  <a href="https://code.claude.com/"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code"></a>
+  <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-34D399?style=flat-square" alt="License: MIT"></a>
+  <a href="#open-research"><img src="https://img.shields.io/badge/Open_Course-Free-60A5FA?style=flat-square" alt="免费开放课程"></a>
+</p>
+
+```text
+   ___   ____   _____  _   _
+  / _ \ |  _ \ | ____|| \ | |
+ | | | || |_) ||  _|  |  \| |
+ | |_| ||  __/ | |___ | |\  |
+  \___/ |_|    |_____||_| \_|
+
+  O P E N   R E S E A R C H
+  --------------------------------------------------------
+  朱晨的 AI 智能体课 / Claude Code 经济学研究实战
+
+  让知识自由流动，让研究开放可复现。
+
+  朱晨 / 中国农业大学经济管理学院
+  公众号「遗传社科研究」
+  Claude Code / Codex                         FREE / MIT
+  github.com/maxwell2732/chenzhu-claude-econ
+```
+
+<details>
+<summary>查看图像版宣传海报</summary>
+
+<img src="assets/course-promo.png" width="100%" alt="朱晨的 AI 智能体课 · Claude Code 经济学研究实战 · 从研究直觉，到可复现的学术成果">
+
+</details>
 
 <h1 align="center">朱晨的 AI 智能体课</h1>
 <p align="center"><strong>Claude Code 经济学研究实战</strong></p>
@@ -127,6 +158,10 @@ network_access = true
 - Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
 
+
+## 许可证
+
+Copyright © 2026 朱晨（Chen Zhu）。本仓库原创课程材料与代码采用 [MIT License](LICENSE) 开放，欢迎使用、修改与分享，请保留版权声明和许可证文本。第三方材料与数据仍遵循各自的许可及授权要求。
 
 <a id="connect"></a>
 

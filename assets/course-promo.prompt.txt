@@ -1,0 +1,27 @@
+Generation: built-in image_gen; opaque background.
+
+Use case: ads-marketing.
+Create a polished wide landscape promotional banner (roughly 16:9) for a free Chinese academic course, intended for a GitHub README and sharing. Visual style: sophisticated dark code editor/terminal, charcoal navy background, restrained coral orange, mint and pale blue syntax highlighting, crisp typography, generous margins. Flat front-facing graphic, no photographed monitor, no people, no 3D. Large highly readable Chinese title on left; elegant code editor window on right with three window control dots, line numbers and syntax-highlighted course configuration. Subtle fine grid background. Chinese typography must be exact and legible, avoid tiny dense text.
+Exact main text:
+"朱晨的 AI 智能体课"
+"Claude Code 经济学研究实战"
+"从研究直觉，到可复现的学术成果"
+"6 次课 / 5 次实操 / 1 次研讨"
+"免费开放 · MIT"
+Small author footer: "朱晨 · 中国农业大学经济管理学院"
+Bottom URL: "github.com/maxwell2732/chenzhu-claude-econ"
+Right editor tab: "research.py"
+Code exactly:
+course = {
+    "tools": ["Claude Code", "Codex"],
+    "workflow": [
+        "数据采集与清理",
+        "计量分析与论文复现",
+        "理论建模与写作"
+    ],
+    "principle": "可复现 · 可审计",
+    "license": "MIT"
+}
+Terminal strip at bottom of editor: "$ research start"
+Small terminal status: "从问题出发，让证据落地。"
+All text should feel integrated into a carefully typeset editorial tech poster. Do not add invented logos, QR codes or claims of official endorsement.

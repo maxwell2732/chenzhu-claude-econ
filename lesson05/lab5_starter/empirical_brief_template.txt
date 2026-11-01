@@ -1,0 +1,28 @@
+mode: empirical-companion
+
+Empirical question:
+【一句话：例如，长期护理保险试点是否提高了中老年人子女的劳动供给？】
+
+Baseline result:
+【主要结果：估计方法、系数、显著性、表号。结果不显著或不稳健也如实写，例如：
+ 按各城市实际起始时间编码后，csdid 估计的 ATT 为 X（表 2），不显著；处理前系数在 -2 期显著。】
+
+Proposed mechanism:
+【你认为的机制，用几句话写清楚：谁做什么决策，政策改变了什么约束或价格。】
+
+Mechanism test (if any):
+【做过的机制检验或异质性分析；没有就写 none。】
+
+Heterogeneity results (if any):
+【按性别、收入、地区等的异质性；没有就写 none。】
+
+Key hypotheses to rationalize:
+H1: 【政策对结果的总体方向】
+H2: 【机制：效应在哪些人身上更大，为什么】
+H3: 【可选】
+
+Preferred theoretical tradition, if any:
+【例如：家庭时间配置模型；没有偏好就写 none。】
+
+Things the model must NOT assume:
+【例如：不要假设所有家庭都有可用的照护者。】

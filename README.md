@@ -64,14 +64,14 @@
 | **02** | **从一个模糊的想法到一张可用在论文中的图表**<br>小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） |
 | **03** | **微观调查数据：审查、清理、合并**<br>用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook |
 | **04** | **计量识别与论文复现，写出第一个 Skill**<br>CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md |
-| **05** | **理论建模、写作与可审计性**<br>用 pAI-Econ 构建理论模型；clean-room 审稿 | 加固后的复制包（capstone） |
+| **05** | **理论建模、写作与可审计性**<br>用 pAI-Econ 构建理论模型；我的论文写作顺序；新会话审稿 | 综合作业（二选一）：别人能重跑的复制包，或一节理论机制 |
 | **06** | **研讨：AI 与经济学知识生产**<br>HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 |
 
 <a id="materials"></a>
 
 ## 讲义与作业
 
-**目前已发布第 1–4 课资料。** 第 5–6 课资料待更新。
+**目前已发布第 1–5 课资料。** 第 6 课资料待更新。
 
 | 课次 | 课程名称 | 课堂讲义 | 图文作业说明 | 作业包 | 在线浏览 |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -79,7 +79,7 @@
 | **02** | 从一个模糊的想法到一张可用于论文的图表 | [PDF](lesson02/第2课_朱晨的AI智能体课_从一个模糊的想法到一张可用在论文中的图表.pdf) | [PDF](lesson02/第2课课后作业使用说明.pdf) | [zip](lesson02/lab2_starter.zip) | [打开目录](lesson02/lab2_starter/) |
 | **03** | 微观调查数据：审查、清理、合并 | [PDF](lesson03/第3课_朱晨的AI智能体课_微观调查数据的审查清理合并.pdf) | [PDF](lesson03/第3课课后作业使用说明.pdf) | [zip](lesson03/lab3_starter.zip) | [打开目录](lesson03/lab3_starter/) |
 | **04** | 计量识别与论文复现，写出第一个 Skill | [PDF](lesson04/第4课_朱晨的AI智能体课_计量识别与论文复现.pdf) | [PDF](lesson04/第4课课后作业使用说明.pdf) | [zip](lesson04/lab4_starter.zip) | [打开目录](lesson04/lab4_starter/) |
-| **05** | 理论建模、写作与可审计性 | 待更新 | 待更新 | 待更新 | — |
+| **05** | 理论建模、写作与可审计性 | [PDF](lesson05/第5课_朱晨的AI智能体课_理论建模写作与可审计性.pdf) | [PDF](lesson05/第5课课后作业使用说明.pdf) | [zip](lesson05/lab5_starter.zip) | [打开目录](lesson05/lab5_starter/) |
 | **06** | 研讨：AI 与经济学知识生产 | 待更新 | 待更新 | 待更新 | — |
 
 <details>
@@ -152,6 +152,7 @@ network_access = true
 
 - Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
+- AIScientists-Dev. *academic-humanizer*. https://github.com/AIScientists-Dev/academic-humanizer （第 5 课英文写作部分）
 
 ## 许可证
 

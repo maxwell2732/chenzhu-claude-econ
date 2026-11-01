@@ -5,6 +5,24 @@
   <a href="#open-research"><img src="https://img.shields.io/badge/Open_Course-Free-60A5FA?style=flat-square" alt="免费开放课程"></a>
 </p>
 
+<p align="center"><img src="assets/course-cover.svg" width="100%" alt="朱晨的 AI 智能体课 · 从研究直觉，到可复现的学术成果"></p>
+
+<h1 align="center">朱晨的 AI 智能体课</h1>
+<p align="center"><strong>Claude Code 经济学研究实战</strong></p>
+
+<p align="center">朱晨 · 中国农业大学经济管理学院<br>公众号「遗传社科研究」</p>
+
+<p align="center"><a href="#open-research">开放研究宣言</a> · <a href="#curriculum">课程路径</a> · <a href="#materials">讲义与作业</a> · <a href="#start">开始学习</a> · <a href="#workflows">我的研究工具</a> · <a href="#connect">与我交流</a></p>
+
+---
+
+**这是一门写给经济学研究者的 AI 智能体实操课**，以 Claude Code 为主要工具，也可以改用 Codex。课程从安装讲起，逐步做到一条可复现的实证流程：数据采集与清理、计量分析、论文复现、理论建模和写作。每一步都要留下证据：表和图由脚本生成，数据处理有记录，关键数字经过独立核对。
+
+| 课程形式 | 学习节奏 | 面向人群 |
+| :--- | :--- | :--- |
+| **6 次课 · 每次约 2 小时** | **5 次实操 + 1 次研讨** | **博士生 · 高年级硕士生 · 青年教师** |
+| 讲义与现场演示 | 课后独立完成作业，配图文说明与作业包 | 有基本计量基础，掌握一种分析工具 |
+
 ```text
    ___   ____   _____  _   _
   / _ \ |  _ \ | ____|| \ | |
@@ -23,29 +41,6 @@
   Claude Code / Codex                         FREE / MIT
   github.com/maxwell2732/chenzhu-claude-econ
 ```
-
-<details>
-<summary>查看图像版宣传海报</summary>
-
-<img src="assets/course-promo.png" width="100%" alt="朱晨的 AI 智能体课 · Claude Code 经济学研究实战 · 从研究直觉，到可复现的学术成果">
-
-</details>
-
-<h1 align="center">朱晨的 AI 智能体课</h1>
-<p align="center"><strong>Claude Code 经济学研究实战</strong></p>
-
-<p align="center">朱晨 · 中国农业大学经济管理学院<br>公众号「遗传社科研究」</p>
-
-<p align="center"><a href="#open-research">开放研究宣言</a> · <a href="#curriculum">课程路径</a> · <a href="#materials">讲义与作业</a> · <a href="#start">开始学习</a> · <a href="#workflows">我的研究工具</a> · <a href="#connect">与我交流</a></p>
-
----
-
-**这是一门写给经济学研究者的 AI 智能体实操课**，以 Claude Code 为主要工具，也可以改用 Codex。课程从安装讲起，逐步做到一条可复现的实证流程：数据采集与清理、计量分析、论文复现、理论建模和写作。每一步都要留下证据：表和图由脚本生成，数据处理有记录，关键数字经过独立核对。
-
-| 课程形式 | 学习节奏 | 面向人群 |
-| :--- | :--- | :--- |
-| **6 次课 · 每次约 2 小时** | **5 次实操 + 1 次研讨** | **博士生 · 高年级硕士生 · 青年教师** |
-| 讲义与现场演示 | 课后独立完成作业，配图文说明与作业包 | 有基本计量基础，掌握一种分析工具 |
 
 <a id="open-research"></a>
 
@@ -157,7 +152,6 @@ network_access = true
 
 - Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
-
 
 ## 许可证
 

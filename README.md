@@ -1,12 +1,12 @@
+
+<p align="center"><img src="assets/course-cover.svg" width="100%" alt="朱晨的 AI 智能体课 · 从研究直觉，到可复现的学术成果"></p>
+
 <p align="center">
   <a href="https://code.claude.com/"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&amp;logo=claude&amp;logoColor=white" alt="Claude Code"></a>
   <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-34D399?style=flat-square" alt="License: MIT"></a>
   <a href="#open-research"><img src="https://img.shields.io/badge/Open_Course-Free-60A5FA?style=flat-square" alt="免费开放课程"></a>
 </p>
-
-<p align="center"><img src="assets/course-cover.svg" width="100%" alt="朱晨的 AI 智能体课 · 从研究直觉，到可复现的学术成果"></p>
-
 <h1 align="center">朱晨的 AI 智能体课</h1>
 <p align="center"><strong>Claude Code 经济学研究实战</strong></p>
 
@@ -34,7 +34,7 @@
   --------------------------------------------------------
   朱晨的 AI 智能体课 / Claude Code 经济学研究实战
 
-  让知识自由流动，让研究开放可复现。
+  让知识自由流动，打破 AI 科研不平等
 
   朱晨 / 中国农业大学经济管理学院
   公众号「遗传社科研究」

@@ -1,0 +1,4 @@
+target,source,paper_value,tolerance,tol_type,our_value,note
+女性身高系数,表2 第7列,0.019,0.005,abs,,
+女性样本量,表2 第7列,523,0.05,rel,,
+男性身高系数,表3 第7列,-0.001,0.005,abs,,原文不显著

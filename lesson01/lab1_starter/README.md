@@ -13,7 +13,7 @@
 | `lab1_verify_checklist.md` | 验收清单，逐项自查 |
 | `CLAUDE.md.template` | CLAUDE.md 模板，复制到你的项目根目录后改成你自己的版本 |
 | `setup_check_prompt.md` | 让 Claude Code 帮你检查环境的提示 |
-| `codex_adapt_prompt.md` | 用 Codex 的同学：让 Codex 自动生成 AGENTS.md 的提示 |
+| `codex_adapt_prompt.md` | 用 Codex、Trae 或 WorkBuddy 时，让它适配本课材料的提示 |
 | `prompts_tried.md` | 记录你自己的“模糊 → 具体”提示改写 |
 | `download_wdi.py` | 参考脚本：从世界银行 API 下载 GDP 增速。先让智能体自己写，写完再和这份对照 |
 | `exit_ticket.md` | 课后 exit ticket |

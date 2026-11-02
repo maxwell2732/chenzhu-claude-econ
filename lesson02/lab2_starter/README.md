@@ -12,7 +12,7 @@
 | `lab2_handout.md` | 作业说明（文字版） |
 | `lab2_verify_checklist.md` | 验收清单，做完逐项自查 |
 | `opening_prompt_template.md` | 六个部分的开场提示模板，社媒版和世界银行版各一份 |
-| `clarify_prompts.md` | 澄清问题用的三套提示：深度、广度、高度 |
+| `clarify_prompts.md` | 澄清问题用的三套提示（深度、广度、高度），以及动手前给计划挑毛病的压力测试提示 |
 | `collection_rules.md` | 社媒数据采集规则，复制进 CLAUDE.md |
 | `CLAUDE.md.template` | 本课项目的 CLAUDE.md 模板 |
 | `gitignore.txt` | 改名为 `.gitignore`，防止原始数据和登录信息进入 Git |

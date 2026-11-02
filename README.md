@@ -65,13 +65,13 @@
 | **03** | **微观调查数据：审查、清理、合并**<br>用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook |
 | **04** | **计量识别与论文复现，写出第一个 Skill**<br>CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md |
 | **05** | **理论建模、写作与可审计性**<br>用 pAI-Econ 构建理论模型；我的论文写作顺序；新会话审稿 | 综合作业（二选一）：别人能重跑的复制包，或一节理论机制 |
-| **06** | **研讨：AI 与经济学知识生产**<br>HLER 的设计原理；APE 项目案例讨论 | 一页立场备忘录：2036 年我还靠什么做研究 |
+| **06** | **研讨：AI 与经济学知识生产**<br>AI for Social Science 的验证问题；Project APE 与 HLER 案例；研究者的训练 | 2036 年我们还靠什么做研究 |
 
 <a id="materials"></a>
 
 ## 讲义与作业
 
-**目前已发布第 1–5 课资料。** 第 6 课资料待更新。
+**全部 6 课资料已发布。**
 
 | 课次 | 课程名称 | 课堂讲义 | 图文作业说明 | 作业包 | 在线浏览 |
 | :---: | :--- | :---: | :---: | :---: | :---: |
@@ -80,7 +80,7 @@
 | **03** | 微观调查数据：审查、清理、合并 | [PDF](lesson03/第3课_朱晨的AI智能体课_微观调查数据的审查清理合并.pdf) | [PDF](lesson03/第3课课后作业使用说明.pdf) | [zip](lesson03/lab3_starter.zip) | [打开目录](lesson03/lab3_starter/) |
 | **04** | 计量识别与论文复现，写出第一个 Skill | [PDF](lesson04/第4课_朱晨的AI智能体课_计量识别与论文复现.pdf) | [PDF](lesson04/第4课课后作业使用说明.pdf) | [zip](lesson04/lab4_starter.zip) | [打开目录](lesson04/lab4_starter/) |
 | **05** | 理论建模、写作与可审计性 | [PDF](lesson05/第5课_朱晨的AI智能体课_理论建模写作与可审计性.pdf) | [PDF](lesson05/第5课课后作业使用说明.pdf) | [zip](lesson05/lab5_starter.zip) | [打开目录](lesson05/lab5_starter/) |
-| **06** | 研讨：AI 与经济学知识生产 | 待更新 | 待更新 | 待更新 | — |
+| **06** | 研讨：AI 与经济学知识生产 | [PDF](lesson06/第6课_朱晨的AI智能体课_AI与经济学知识生产.pdf) | [PDF](lesson06/第6课课后作业使用说明.pdf) | [zip](lesson06/lab6_starter.zip) | [打开目录](lesson06/lab6_starter/) |
 
 <details>
 <summary><strong>每课资料怎么用？查看文件说明</strong></summary>

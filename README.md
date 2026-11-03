@@ -61,11 +61,11 @@
 | 课次 | 研究主题与现场演示 | 你将完成的成果 |
 | :---: | :--- | :--- |
 | **01** | **从大语言模型到智能体**<br>写 CLAUDE.md，用 Plan mode 完成一个小任务 | 安装、写自己的 CLAUDE.md、完成一个核对过的任务 |
-| **02** | **从一个模糊的想法到一张可用在论文中的图表**<br>小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） |
+| **02** | **从一个模糊的想法到一张可用在论文中的图表**<br>用公开数据接口下载世界银行数据；小红书评论采集：智能体操作浏览器，人扫码登录 | 从空文件夹到一张能复现的图（世界银行数据或社媒评论） |
 | **03** | **微观调查数据：审查、清理、合并**<br>用 research harness 清理 CHNS，生成 codebook | 审查报告、清理后的面板、带变量定义的 codebook |
-| **04** | **计量识别与论文复现，写出第一个 Skill**<br>CHARLS 长护险 staggered DID；一篇论文的复现 | DID 或复现结果，以及你自己写的 SKILL.md |
+| **04** | **计量识别与论文复现，写出第一个 Skill**<br>CHARLS 长护险 staggered DID；一篇论文的复现；用大模型构造变量时怎样验证 | DID 或复现结果，以及你自己写的 SKILL.md |
 | **05** | **理论建模、写作与可审计性**<br>用 pAI-Econ 构建理论模型；我的论文写作顺序；新会话审稿 | 综合作业（二选一）：别人能重跑的复制包，或一节理论机制 |
-| **06** | **研讨：AI 与经济学知识生产**<br>AI for Social Science 的验证问题；Project APE 与 HLER 案例；研究者的训练 | 2036 年我们还靠什么做研究 |
+| **06** | **研讨：AI 与经济学知识生产**<br>AI for Social Science 的验证问题；Project APE 与 HLER 案例；智能体常见的八种错误；研究者的训练 | 2036 年我们还靠什么做研究 |
 
 <a id="materials"></a>
 
@@ -113,9 +113,9 @@
 - 面向博士生、高年级硕士生和青年教师。本科生建议先用传统方式打好专业基础。
 
 <details>
-<summary><strong>使用 Codex 的同学：材料适配与联网设置</strong></summary>
+<summary><strong>使用 Codex、Trae 或 WorkBuddy 的同学：材料适配与联网设置</strong></summary>
 
-课程材料按 Claude Code 组织（`CLAUDE.md`、`.claude/skills/`）。用 Codex 的同学可以让它读取这些文件，自动生成对应的 `AGENTS.md`，提示见各课作业包里的 `codex_adapt_prompt.md`。
+课程材料按 Claude Code 组织（`CLAUDE.md`、`.claude/skills/`）。用 Codex 的同学可以让它读取这些文件，自动生成对应的 `AGENTS.md`，提示见第 1 课作业包里的 `codex_adapt_prompt.md`。国内的 Trae 和 WorkBuddy 也支持 skill；Trae 桌面版可以在设置中打开对 `CLAUDE.md` 和 `AGENTS.md` 的读取。这些工具更新很快，具体以各自当前的官方文档为准。
 
 Codex 默认的沙箱不允许终端命令联网，下载数据的脚本会报错（Windows 上是 `WinError 10013`）。在 `~/.codex/config.toml` 里加上下面两行，然后重启 Codex：
 
@@ -153,6 +153,7 @@ network_access = true
 - Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
 - AIScientists-Dev. *academic-humanizer*. https://github.com/AIScientists-Dev/academic-humanizer （第 5 课英文写作部分）
+- Jha, Manish. *AI for Finance Research*. Georgia State University, 2026. 工具分类、工作循环、常见错误和大模型测量的验证方法（第 1、2、4、6 课）
 
 ## 许可证
 

@@ -21,6 +21,7 @@
 | `compare_targets.py` | 先锁定目标和容差，复现后自动判断 PASS / FAIL / NOTE |
 | `event_study_plot.py` | 从系数表画事件研究图，并汇总处理前系数 |
 | `SKILL_skeleton.md` | SKILL.md 骨架，附 description 的好坏例子 |
+| `llm_measurement_checklist.md` | 用大模型构造变量时的检查清单：八个问题、前视偏差、六步验证、成本 |
 | `exit_ticket.md` | 课后 exit ticket |
 
 ## 数据说明

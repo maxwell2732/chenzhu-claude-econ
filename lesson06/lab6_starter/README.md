@@ -15,6 +15,7 @@
 | `peer_review_sheet.md` | 同伴互评表 |
 | `one_skill_a_week.md` | “一周一个”的六周计划表 |
 | `course_reflection.md` | 全课回顾：写给六周后的自己 |
+| `agent_failure_modes.md` | 智能体常见的八种错误：自查表 |
 
 ## 关于 AI 的使用
 

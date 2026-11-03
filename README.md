@@ -152,10 +152,10 @@ network_access = true
 
 本课程参考了以下材料：
 
-- Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ ；
+- Barrios, John M. *Claude Code for Accounting Research*. Yale School of Management, 2026. 课程网站：https://johnmbarrios.com/claude-code-accounting/ 
 - Sant'Anna, Pedro H. C. *claude-code-my-workflow*. https://github.com/pedrohcgs/claude-code-my-workflow
-- AIScientists-Dev. *academic-humanizer*. https://github.com/AIScientists-Dev/academic-humanizer （第 5 课英文写作部分）
-- Jha, Manish. *AI for Finance Research*. Georgia State University, 2026. 工具分类、工作循环、常见错误和大模型测量的验证方法（第 1、2、4、6 课）
+- Jha, Manish. *AI for Finance Research*. Georgia State University, 2026
+- AIScientists-Dev. *academic-humanizer*. https://github.com/AIScientists-Dev/academic-humanizer 
 
 ## 许可证
 

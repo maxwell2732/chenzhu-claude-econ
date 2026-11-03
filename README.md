@@ -14,6 +14,8 @@
 
 <p align="center"><a href="#open-research">开放研究宣言</a> · <a href="#curriculum">课程路径</a> · <a href="#materials">讲义与作业</a> · <a href="#start">开始学习</a> · <a href="#workflows">我的研究工具</a> · <a href="#connect">与我交流</a></p>
 
+<p align="center">最后更新：2026 年 11 月 3 日</p>
+
 ---
 
 **这是一门写给经济学研究者的 AI 智能体实操课**，以 Claude Code 为主要工具，也可以改用 Codex。课程从安装讲起，逐步做到一条可复现的实证流程：数据采集与清理、计量分析、论文复现、理论建模和写作。每一步都要留下证据：表和图由脚本生成，数据处理有记录，关键数字经过独立核对。
